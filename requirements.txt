@@ -1,0 +1,9 @@
+strands-agents
+strands-agents-tools
+uv
+boto3
+bedrock-agentcore
+bedrock-agentcore-starter-toolkit
+aws-opentelemetry-distro~=0.10.1
+# Memory dependencies (already included in bedrock-agentcore)
+# bedrock-agentcore.memory is part of bedrock-agentcore package
